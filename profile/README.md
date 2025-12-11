@@ -1,4 +1,4 @@
-**AI systems that actually work**
+# AI systems that actually work
 
 We're a Swiss-based AI consultancy that builds production-ready AI systems for companies across finance, legal, healthcare, and manufacturing.
 
