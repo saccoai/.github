@@ -19,7 +19,7 @@ We're a Swiss-based AI consultancy that builds production-ready AI systems for c
 
 - 🌐 [saccoai.com](https://saccoai.com)
 - 📧 hello@saccoai.com
-- 📞 [tel:+41912521999](+41 91 252 19 99) (AI Assistant, 24/7)
+- 📞 +41 91 252 19 99 (AI Assistant, 24/7)
 - 📍 Bellinzona, Switzerland
 
 ---
